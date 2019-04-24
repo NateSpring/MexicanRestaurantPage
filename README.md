@@ -1,0 +1,2 @@
+# MexicanRestaurantPage
+Surprisingly not all modern businesses have a website at all. A great local restaurant is one of these unfortunate businesses. I decide to use my web development skills to help them out with basic information that they lacked in an online presence. Now they have an information hub of contact info, a map, hours, and a physically scanned menu. I'm hoping this helps some of their customers and grows their business.
